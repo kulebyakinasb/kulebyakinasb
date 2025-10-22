@@ -28,7 +28,13 @@ I'm a analyst and marketing manager. Works in B2B and B2C (IT industry, GameDev,
 - Tilda (creation and editing)
 - Database user (1C, Navision, Oracle)
 
+## 📁 Portfolio
+Portfolio is located in repository of kulebyakinasb.github.io and icluded: 
+- Cohort analyze retention in Excel
+- Dashbords in Yandex DataLens with SQL
+- RFM analyze by Python
 
-## 🔗 Links
+## 🔗 Contacts
 ![Logo](https://vmestesmamoy.ru/img/tg.png) 
 t.me/kulebyakina_sb
+kulebyakinasb@gmail.com
