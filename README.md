@@ -29,12 +29,12 @@ I'm a analyst and marketing manager. Works in B2B and B2C (IT industry, GameDev,
 - Database user (1C, Navision, Oracle)
 
 ## 📁 Portfolio
-Portfolio is located in repository of **portfolio_kulebyakina** and icluded: 
+Portfolio is located in **repository of portfolio_kulebyakina** and icluded: 
 - Cohort analyze retention in Excel
 - Dashbords in Yandex DataLens with SQL
 - RFM analyze by Python
 
 ## 🔗 Contacts
 ![Logo](https://vmestesmamoy.ru/img/tg.png) 
-t.me/kulebyakina_sb  
+[t.me/kulebyakina_sb](https://t.me/kulebyakina_sb)  
 kulebyakinasb@gmail.com
